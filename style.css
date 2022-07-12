@@ -62,6 +62,49 @@ body {
     color: aqua;
 }
 
+/* main */
+
+main {
+    margin: 50px auto;
+    width: 1200px;
+}
+
+main h2 {
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.about-us-box {
+    margin: 40px 0;
+    position: relative;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.top {
+    
+    background-image: url('img/foto1maxi.jpg');
+    
+}
+
+.middle {
+    background-image: url('img/foto2maxi.jpg');
+    
+}
+
+.bottom {
+    background-image: url('img/fotomaxi.jpg');
+}   
+
+.about-us-text {
+    position: absolute;
+    color: #fff;
+}
+
 /* footer */
 footer {
     height: 80px;

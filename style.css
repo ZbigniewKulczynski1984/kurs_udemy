@@ -135,6 +135,18 @@ main h2 {
     padding: 10px 30px;
 }
 
+.contact {
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.fa-solid {
+    margin-right: 7px;
+}
+
+
+
 /* footer */
 footer {
     height: 80px;

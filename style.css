@@ -121,6 +121,19 @@ main h2 {
     width: 100%;
     
 }
+/* usługi */
+.services-list {
+    margin: 0 auto;
+    width: 200px;
+}
+
+.prices-table {
+    margin: 0 auto;
+}
+
+.prices-table {
+    padding: 10px 30px;
+}
 
 /* footer */
 footer {
